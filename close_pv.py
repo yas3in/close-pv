@@ -1,6 +1,7 @@
 from pyrogram import Client, filters, enums
 from pyrogram.enums import ChatType
 from setting import *
+from local_setting import *
 import logging
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from pysondb import db

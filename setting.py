@@ -1,11 +1,3 @@
-API_ID = 16632852
-
-API_HASH = '50bfb3399031262bda2ffb8a2b6a6c0f'
-
-ADMIN_ID = 6652078084
-
-PHONE_NUMBER = '+989052067820'
-
 is_off = False
 
 help_text = """
