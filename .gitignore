@@ -1,3 +1,5 @@
 local_setting.py
 
 venv
+
+*.session
